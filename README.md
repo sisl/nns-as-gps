@@ -10,3 +10,5 @@ The ensemble methods implemented are:
 
 See also:
 1. Another implementation of ensembles with predictive uncertainty [here](https://github.com/vvanirudh/deep-ensembles-uncertainty)
+
+**Author** : Kunal Menda
